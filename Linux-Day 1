@@ -1,0 +1,25 @@
+First Day in Linux - 06/02/2021
+
+***Some basics Commands***
+pwd   Display the current directory of the terminal
+/     Root Directory
+cd {location}   Root Directory
+ls   List down the files and folder in the directory
+clear (ctrl+l) All commands are cleared
+cd..  Move back to the other directory
+cd  only cd let to go home directory
+echo to print
+su  to switch user
+exit come out from the current users
+su {roshini} to switch to the users
+sudo {any comments} Execute as a root users
+ls {path} Display the files in that path
+ls -l Display all the files in long formate as size,user,memory
+ls -a Display hidden files
+ls author Display some long format with author name
+ls -l a All hidden files in the long format
+ls -s  Display all the files in directory where higher memory display first of sort order
+
+To create a file
+ls -laS {path} > {file name with extension}
+    eg  ls -laS /home/documents/roshini > newfile.txt
